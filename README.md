@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
- This Project has given by Hitesh Sir as the part of project assigments.Ihave build this page in 1.5 hours.
+ This Project has given by Hitesh Sir as the part of project assigments.I have build this page in 1.5 hours.
 </td>
 
 </tr>
